@@ -14,3 +14,12 @@
 width: 800px;
 height: 400px;
 }
+
+.ex-3-square:hover {
+border-radius: 50px;
+}
+
+.ex-3-square:hover {
+    transition-timing-function: linear;
+    transition: 2s;   
+}
