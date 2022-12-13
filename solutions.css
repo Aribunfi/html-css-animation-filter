@@ -50,3 +50,16 @@ height: 30px;
     filter: grayscale(100%);
 }
 
+.ex-7-img:hover {
+    filter:hue-rotate(46deg)
+}
+
+.ex-7-img:hover {
+    transform:blur(20px)
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.ex-7-img:hover {
+    transition: 2s;
+}
