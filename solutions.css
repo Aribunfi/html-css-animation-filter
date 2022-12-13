@@ -23,3 +23,11 @@ border-radius: 50px;
     transition-timing-function: linear;
     transition: 2s;   
 }
+
+.ex-4-square:hover {
+    transition: 2s;
+}
+
+.ex-4-square:hover {
+    opacity: 0;
+}
