@@ -63,3 +63,23 @@ height: 30px;
 .ex-7-img:hover {
     transition: 2s;
 }
+
+.ex-8-img:hover {
+    filter: brightness(200%);
+    transform: rotate(180deg);
+    border-radius: 25px;
+}
+
+.ex-8-img:hover {
+    transition: 2s;
+}
+
+.ex-9-img:hover {
+    filter: contrast(200%) grayscale(.3)
+}
+
+.ex-9-img:hover {
+    border-radius: 25px;
+    transform: scale(50%);
+    transition: 3s;
+}
